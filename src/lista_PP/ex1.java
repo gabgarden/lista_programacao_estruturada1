@@ -30,7 +30,7 @@ public class ex1 {
 	
 	
 	
-	
+	// retornando o menor valor dentre os somatorios de todas as colunas.
 	private static int somatorioColunas(int[][] matriz) {
 		
 		int menorValor = -1;
